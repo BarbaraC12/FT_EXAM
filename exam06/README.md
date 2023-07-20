@@ -1,4 +1,4 @@
-# EXAM06: Mini serv
+# EXAM06: Mini serv [![bcano's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/3084697)](https://github.com/JaeSeoKim/badge42)
 
 - **Assignment name**   : mini_serv  
 - **Expected files**    : mini_serv.c  
